@@ -1,0 +1,205 @@
+[
+  {
+    "Name": "Multiplikation serie 6",
+    "Visible": true,
+    "DisplayPriority": 100,
+    "ProblemsToGenerate": 5,
+    "Operations": [
+      {
+        "Operation": "Multiplication",
+        "FirstOperandMin": 6,
+        "FirstOperandMax": 6,
+        "SecondOperandMin": 5,
+        "SecondOperandMax": 9,
+        "SecondOperandStep": 1
+      }
+    ]
+  },
+  {
+    "Name": "Multiplikation serie 7",
+    "Visible": true,
+    "DisplayPriority": 101,
+    "ProblemsToGenerate": 5,
+    "Operations": [
+      {
+        "Operation": "Multiplication",
+        "FirstOperandMin": 7,
+        "FirstOperandMax": 7,
+        "SecondOperandMin": 5,
+        "SecondOperandMax": 9,
+        "SecondOperandStep": 1
+      }
+    ]
+  },
+  {
+    "Name": "Slumpvis Multiplikation 6-7",
+    "Visible": true,
+    "DisplayPriority": 110,
+    "ProblemsToGenerate": 4,
+    "Operations": [
+      {
+        "Operation": "Multiplication",
+        "FirstOperandMin": 2,
+        "FirstOperandMax": 10,
+        "SecondOperandMin": 6,
+        "SecondOperandMax": 7
+      }
+    ]
+  },
+  {
+    "Name": "Addition med övergångar 30-50",
+    "Visible": true,
+    "DisplayPriority": 120,
+    "ProblemsToGenerate": 6,
+    "Operations": [
+      {
+        "Operation": "Addition",
+        "FirstOperandMin": 36,
+        "FirstOperandMax": 49,
+        "SecondOperandMin": 7,
+        "SecondOperandMax": 11
+      }
+    ]
+  },
+  {
+    "Name": "AdditionMedium",
+    "Visible": false,
+    "DisplayPriority": 20,
+    "ProblemsToGenerate": 10,
+    "Operations": [
+      {
+        "Operation": "Addition",
+        "FirstOperandMin": 50,
+        "FirstOperandMax": 200,
+        "SecondOperandMin": 25,
+        "SecondOperandMax": 125
+      }
+    ]
+  },
+  {
+    "Name": "SubtractionNoNegative",
+    "Visible": false,
+    "DisplayPriority": 30,
+    "ProblemsToGenerate": 10,
+    "Operations": [
+      {
+        "Operation": "Subtraction",
+        "FirstOperandMin": 15,
+        "FirstOperandMax": 60,
+        "SecondOperandMin": 1,
+        "SecondOperandMax": 30
+      }
+    ]
+  },
+  {
+    "Name": "SubtractionMedium",
+    "Visible": false,
+    "DisplayPriority": 40,
+    "ProblemsToGenerate": 10,
+    "Operations": [
+      {
+        "Operation": "Subtraction",
+        "FirstOperandMin": 40,
+        "FirstOperandMax": 150,
+        "SecondOperandMin": 12,
+        "SecondOperandMax": 70
+      }
+    ]
+  },
+  {
+    "Name": "MultiplicationSmall",
+    "Visible": false,
+    "DisplayPriority": 50,
+    "ProblemsToGenerate": 10,
+    "Operations": [
+      {
+        "Operation": "Multiplication",
+        "FirstOperandMin": 2,
+        "FirstOperandMax": 9,
+        "SecondOperandMin": 2,
+        "SecondOperandMax": 9
+      }
+    ]
+  },
+  {
+    "Name": "MultiplicationTable5to9",
+    "Visible": false,
+    "DisplayPriority": 60,
+    "ProblemsToGenerate": 10,
+    "Operations": [
+      {
+        "Operation": "Multiplication",
+        "FirstOperandMin": 5,
+        "FirstOperandMax": 9,
+        "SecondOperandMin": 5,
+        "SecondOperandMax": 9
+      }
+    ]
+  },
+  {
+    "Name": "MixedAddSubtract",
+    "Visible": false,
+    "DisplayPriority": 70,
+    "ProblemsToGenerate": 12,
+    "Operations": [
+      {
+        "Operation": "Addition",
+        "FirstOperandMin": 10,
+        "FirstOperandMax": 80,
+        "SecondOperandMin": 5,
+        "SecondOperandMax": 40
+      },
+      {
+        "Operation": "Subtraction",
+        "FirstOperandMin": 25,
+        "FirstOperandMax": 95,
+        "SecondOperandMin": 5,
+        "SecondOperandMax": 45
+      }
+    ]
+  },
+  {
+    "Name": "DivisionEvenResults",
+    "Visible": false,
+    "DisplayPriority": 80,
+    "ProblemsToGenerate": 10,
+    "Operations": [
+      {
+        "Operation": "Division",
+        "FirstOperandMin": 12,
+        "FirstOperandMax": 96,
+        "SecondOperandMin": 2,
+        "SecondOperandMax": 12
+      }
+    ]
+  },
+  {
+    "Name": "FastFactsSmallMix",
+    "Visible": false,
+    "DisplayPriority": 90,
+    "ProblemsToGenerate": 8,
+    "Operations": [
+      {
+        "Operation": "Addition",
+        "FirstOperandMin": 1,
+        "FirstOperandMax": 12,
+        "SecondOperandMin": 1,
+        "SecondOperandMax": 12
+      },
+      {
+        "Operation": "Subtraction",
+        "FirstOperandMin": 6,
+        "FirstOperandMax": 20,
+        "SecondOperandMin": 1,
+        "SecondOperandMax": 10
+      },
+      {
+        "Operation": "Multiplication",
+        "FirstOperandMin": 2,
+        "FirstOperandMax": 6,
+        "SecondOperandMin": 2,
+        "SecondOperandMax": 6
+      }
+    ]
+  }
+]
