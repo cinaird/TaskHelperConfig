@@ -1,8 +1,8 @@
 [
   {
-    "Name": "Multiplikation serie 6",
+    "Name": "Test",
     "Visible": true,
-    "DisplayPriority": 100,
+    "DisplayPriority": 0,
     "ProblemsToGenerate": 5,
     "Operations": [
       {
