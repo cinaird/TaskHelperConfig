@@ -1,7 +1,7 @@
 [
   {
     "Name": "Multiplication serie 6 - you rule V!",
-    "Visible": true,
+    "Visible": false,
     "DisplayPriority": 0,
     "ProblemsToGenerate": 5,
     "Operations": [
