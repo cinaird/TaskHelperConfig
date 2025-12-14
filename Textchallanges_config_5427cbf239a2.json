@@ -9,7 +9,7 @@
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
     "Visible": true,
-    "DisplayPriority": 201
+    "DisplayPriority": 101
   },
   {
     "Id": "7df5e497-22c7-4fd2-96e9-3980cf16a33d",

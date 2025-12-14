@@ -18,7 +18,7 @@
   {
     "Name": "Multiplikation serie 7",
     "Visible": true,
-    "DisplayPriority": 101,
+    "DisplayPriority": 121,
     "ProblemsToGenerate": 5,
     "Operations": [
       {
@@ -39,8 +39,8 @@
     "Operations": [
       {
         "Operation": "Multiplication",
-        "FirstOperandMin": 2,
-        "FirstOperandMax": 10,
+        "FirstOperandMin": 5,
+        "FirstOperandMax": 9,
         "SecondOperandMin": 6,
         "SecondOperandMax": 7
       }
