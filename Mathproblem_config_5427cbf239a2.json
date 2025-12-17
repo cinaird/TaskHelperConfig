@@ -17,7 +17,7 @@
   },
   {
     "Name": "Multiplikation serie 7",
-    "Visible": true,
+    "Visible": false,
     "DisplayPriority": 121,
     "ProblemsToGenerate": 5,
     "Operations": [
@@ -35,7 +35,7 @@
     "Name": "Slumpvis Multiplikation 6-7",
     "Visible": true,
     "DisplayPriority": 110,
-    "ProblemsToGenerate": 4,
+    "ProblemsToGenerate": 6,
     "Operations": [
       {
         "Operation": "Multiplication",
@@ -160,16 +160,16 @@
   },
   {
     "Name": "DivisionEvenResults",
-    "Visible": false,
-    "DisplayPriority": 80,
-    "ProblemsToGenerate": 10,
+    "Visible": true,
+    "DisplayPriority": 380,
+    "ProblemsToGenerate": 5,
     "Operations": [
       {
         "Operation": "Division",
         "FirstOperandMin": 12,
         "FirstOperandMax": 96,
         "SecondOperandMin": 2,
-        "SecondOperandMax": 12
+        "SecondOperandMax": 5
       }
     ]
   },
