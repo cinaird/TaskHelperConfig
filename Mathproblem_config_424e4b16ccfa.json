@@ -14,5 +14,20 @@
         "SecondOperandStep": 1
       }
     ]
+  },
+    {
+    "Name": "Slumpvis Multiplikation 6-7",
+    "Visible": true,
+    "DisplayPriority": 110,
+    "ProblemsToGenerate": 10,
+    "Operations": [
+      {
+        "Operation": "Multiplication",
+        "FirstOperandMin": 5,
+        "FirstOperandMax": 9,
+        "SecondOperandMin": 6,
+        "SecondOperandMax": 7
+      }
+    ]
   }
 ]

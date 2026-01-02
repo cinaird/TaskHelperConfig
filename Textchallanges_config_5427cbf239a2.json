@@ -3,8 +3,8 @@
     "Id": "904820cd-e0d0-4732-9c14-aba47cf368ac",
     "Name": "Enklare text med korrekt meningsbyggnad V",
     "Description": "Skriv en enkel men tydlig text med punkt, stor bokstav och sammanhang.",
-    "TargetWordsMin": 10,
-    "TargetWordsMax": 50,
+    "TargetWordsMin": 20,
+    "TargetWordsMax": 60,
     "Difficulty": 0,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
@@ -20,7 +20,7 @@
     "Difficulty": 1,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
-    "Visible": false,
+    "Visible": true,
     "DisplayPriority": 203
   },
   {
