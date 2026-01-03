@@ -1,19 +1,19 @@
 [
   {
     "Id": "904820cd-e0d0-4732-9c14-aba47cf368ac",
-    "Name": "Enklare text med korrekt meningsbyggnad V",
+    "Name": "Svenska - Enklare text med korrekt meningsbyggnad V",
     "Description": "Skriv en enkel men tydlig text med punkt, stor bokstav och sammanhang.",
     "TargetWordsMin": 20,
     "TargetWordsMax": 60,
     "Difficulty": 0,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
-    "Visible": true,
+    "Visible": false,
     "DisplayPriority": 101
   },
   {
     "Id": "7df5e497-22c7-4fd2-96e9-3980cf16a33d",
-    "Name": "Begriplig text med korrekt meningsbyggnad",
+    "Name": "Svenska - Begriplig text med korrekt meningsbyggnad",
     "Description": "Skriv en begriplig och tydlig text med punkt, stor bokstav och sammanhang.",
     "TargetWordsMin": 20,
     "TargetWordsMax": 100,
@@ -25,8 +25,8 @@
   },
   {
     "Id": "2630c1b9-acd9-4783-a997-38bf6c9c1db6",
-    "Name": "Ordentlig text med korrekt meningsbyggnad",
-    "Description": "Skriv en begriplig och tydlig text med punkt, stor bokstav och sammanhang. En tydlig tr\u00E5d ska f\u00F6lja genom texten.",
+    "Name": "Svenska - Ordentlig text med korrekt meningsbyggnad",
+    "Description": "Skriv en begriplig och tydlig text med punkt, stor bokstav och sammanhang. En tydlig tråd ska följa genom texten.",
     "TargetWordsMin": 30,
     "TargetWordsMax": 100,
     "Difficulty": 2,

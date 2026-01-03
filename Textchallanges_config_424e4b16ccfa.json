@@ -1,26 +1,74 @@
 [
   {
     "Id": "904820cd-e0d0-4732-9c14-aba47cf368ac",
-    "Name": "Enklare text med korrekt meningsbyggnad",
+    "Name": "Svenska - Enklare text med korrekt meningsbyggnad J",
     "Description": "Skriv en enkel men tydlig text med punkt, stor bokstav och sammanhang.",
     "TargetWordsMin": 20,
     "TargetWordsMax": 60,
+    "Difficulty": 0,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": false,
+    "DisplayPriority": 101
+  },
+  {
+    "Id": "7df5e497-22c7-4fd2-96e9-3980cf16a33d",
+    "Name": "Svenska - Begriplig text med korrekt meningsbyggnad",
+    "Description": "Skriv en begriplig och tydlig text med punkt, stor bokstav och sammanhang.",
+    "TargetWordsMin": 20,
+    "TargetWordsMax": 100,
     "Difficulty": 1,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
     "Visible": true,
-    "DisplayPriority": 151
+    "DisplayPriority": 203
   },
   {
-    "Id": "904820cd-e0d0-4732-9c14-aba47cf368ac",
-    "Name": "Enklare text med korrekt meningsbyggnad",
-    "Description": "Skriv en enkel men tydlig text med punkt, stor bokstav och sammanhang.",
+    "Id": "2630c1b9-acd9-4783-a997-38bf6c9c1db6",
+    "Name": "Svenska - Ordentlig text med korrekt meningsbyggnad",
+    "Description": "Skriv en begriplig och tydlig text med punkt, stor bokstav och sammanhang. En tydlig tråd ska följa genom texten.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 2,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": false,
+    "DisplayPriority": 0
+  },
+  {
+    "Id": "9589fd96-7041-4e97-8608-de9365ea246e",
+    "Name": "Enkel faktatext utan talspr\u00E5k",
+    "Description": "Skriv en enkel och tydlig faktatext med punkt, stor bokstav och sammanhang. Anv\u00E4nd g\u00E4rna inte talspr\u00E5k.",
     "TargetWordsMin": 10,
     "TargetWordsMax": 50,
     "Difficulty": 0,
-    "CheckGrammarOnly": true,
-    "CheckGrammarAndSpoken": false,
+    "CheckGrammarOnly": false,
+    "CheckGrammarAndSpoken": true,
     "Visible": true,
-    "DisplayPriority": 201
+    "DisplayPriority": 213
+  },
+  {
+    "Id": "c50bfb7a-e721-4c90-bbfa-a3e76d3dd5fe",
+    "Name": "Begriplig faktatext utan talspr\u00E5k",
+    "Description": "Skriv en begriplig och tydlig faktatext med punkt, stor bokstav och sammanhang. Anv\u00E4nd inget talspr\u00E5k.",
+    "TargetWordsMin": 25,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": false,
+    "CheckGrammarAndSpoken": true,
+    "Visible": true,
+    "DisplayPriority": 215
+  },
+  {
+    "Id": "1a83dc2f-95d6-40b6-94c7-4807b0c8a400",
+    "Name": "Ordentlig faktatext utan talspr\u00E5k",
+    "Description": "Skriv en begriplig och tydlig faktatext med punkt, stor bokstav och sammanhang. Anv\u00E4nd inget talspr\u00E5k. Ha en r\u00F6d tr\u00E5d genom texten.",
+    "TargetWordsMin": 40,
+    "TargetWordsMax": 100,
+    "Difficulty": 2,
+    "CheckGrammarOnly": false,
+    "CheckGrammarAndSpoken": true,
+    "Visible": false,
+    "DisplayPriority": 0
   }
 ]
