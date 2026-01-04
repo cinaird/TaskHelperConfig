@@ -70,5 +70,17 @@
     "CheckGrammarAndSpoken": true,
     "Visible": false,
     "DisplayPriority": 0
+  },
+  {
+    "Id": "2b33dc2f-15d6-40b6-94c7-1807b0c8a402",
+    "Name": "Matte - Beskriv lösning av ekvation",
+    "Description": "Skriv tydligt hur du löser en ekvation a*x - b = c steg för steg. (Exempelvis 3*x - 4 = 11). Språk och metematisk korrekthet kommer bedömmas, om det inte är matematisk korrekt blir det inte godkänt (betyg 4 eller lägre)",
+    "TargetWordsMin": 40,
+    "TargetWordsMax": 100,
+    "Difficulty": 0,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 400
   }
 ]
