@@ -1,14 +1,14 @@
 [
   {
     "Id": "904820cd-e0d0-4732-9c14-aba47cf368ac",
-    "Name": "Svenska - Enklare text med korrekt meningsbyggnad J",
-    "Description": "Skriv en enkel men tydlig text med punkt, stor bokstav och sammanhang.",
+    "Name": "Svenska - Ett personporträtt med korrekt meningsbyggnad J",
+    "Description": "Skriv skriva ett personporträtt om en person, hitta på hans livshistoria. Tydlig text med punkt, stor bokstav och sammanhang.",
     "TargetWordsMin": 20,
     "TargetWordsMax": 60,
-    "Difficulty": 0,
+    "Difficulty": 1,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
-    "Visible": false,
+    "Visible": true,
     "DisplayPriority": 101
   },
   {

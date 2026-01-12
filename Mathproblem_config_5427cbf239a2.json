@@ -160,7 +160,7 @@
   },
   {
     "Name": "DivisionEvenResults",
-    "Visible": true,
+    "Visible": false,
     "DisplayPriority": 380,
     "ProblemsToGenerate": 5,
     "Operations": [
