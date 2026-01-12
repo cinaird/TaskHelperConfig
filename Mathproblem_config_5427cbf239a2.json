@@ -35,7 +35,7 @@
     "Name": "Slumpvis Multiplikation 6-7",
     "Visible": true,
     "DisplayPriority": 110,
-    "ProblemsToGenerate": 10,
+    "ProblemsToGenerate": 16,
     "Operations": [
       {
         "Operation": "Multiplication",

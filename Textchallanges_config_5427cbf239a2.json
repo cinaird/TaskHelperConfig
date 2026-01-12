@@ -82,5 +82,101 @@
     "CheckGrammarAndSpoken": false,
     "Visible": true,
     "DisplayPriority": 400
+  },
+  {
+    "Id": "a1c3f4d2-9b5a-4c7e-8d21-6c8e9e3b1a01",
+    "Name": "Kemi – 1 Vad är kemi",
+    "Description": "Skriv tydligt och faktamässigt korrekt om vad kemi är, hur kemi används i vardagen och vilka säkerhetsregler som gäller i kemisalen.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 510
+  },
+  {
+    "Id": "b2d4a6e8-3f91-4e2b-9c74-1a0f5c6e2b02",
+    "Name": "Kemi – 2 Materiens uppbyggnad",
+    "Description": "Skriv tydligt och faktamässigt korrekt om materiens uppbyggnad med fokus på atomer, molekyler, grundämnen, kemiska föreningar samt en översikt av det periodiska systemet.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 520
+  },
+  {
+    "Id": "c3e5b7a1-6d24-45f8-8e91-2b7c0a4e3c03",
+    "Name": "Kemi – 3 Kemiska reaktioner",
+    "Description": "Skriv tydligt och faktamässigt korrekt om vad kemiska reaktioner är, inklusive förbränning, oxidation och bevarande av massa.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 530
+  },
+  {
+    "Id": "d4f6c8b2-1a35-4b9d-9f62-3c1e8b5d4d04",
+    "Name": "Kemi – 4 Aggregationstillstånd",
+    "Description": "Skriv tydligt och faktamässigt korrekt om aggregationstillstånd, fasövergångar och hur temperatur påverkar partiklar.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 540
+  },
+  {
+    "Id": "e5a7d9c3-2b46-4f1a-8c73-4d2f9c6e5e05",
+    "Name": "Kemi – 5 Blandningar och lösningar",
+    "Description": "Skriv tydligt och faktamässigt korrekt om skillnaden mellan rena ämnen och blandningar, lösningar, löslighet och separationsmetoder.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 550
+  },
+  {
+    "Id": "f6b8e0d4-3c57-49b2-9a84-5e3a0d7f6f06",
+    "Name": "Kemi – 6 Syror, baser och pH",
+    "Description": "Skriv tydligt och faktamässigt korrekt om vad syror och baser är, hur pH-skalan fungerar, vardagliga exempel och säker hantering.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 560
+  },
+  {
+    "Id": "07c9f1e5-4d68-4c3a-8b95-6f4b1e8a7077",
+    "Name": "Kemi – 7 Kemi och miljö",
+    "Description": "Skriv tydligt och faktamässigt korrekt om kemikalier i vardagen, miljöfarliga ämnen, återvinning och hållbar utveckling.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 570
+  },
+  {
+    "Id": "18d0a2f6-5e79-4d4b-9c06-7a5c2f9b8188",
+    "Name": "Kemi – 8 Laborationer och arbetssätt",
+    "Description": "Skriv tydligt och faktamässigt korrekt om laborationer, enkla experiment, observationer, hypotes, resultat, slutsats och dokumentation.",
+    "TargetWordsMin": 30,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": true,
+    "CheckGrammarAndSpoken": false,
+    "Visible": true,
+    "DisplayPriority": 580
   }
 ]
