@@ -1,9 +1,9 @@
 [
   {
     "Id": "904820cd-e0d0-4732-9c14-aba47cf368ac",
-    "Name": "Svenska - Ett personporträtt med korrekt meningsbyggnad V",
-    "Description": "Skriv skriva ett personporträtt om en person, hitta på hans livshistoria. Tydlig text med punkt, stor bokstav och sammanhang.",
-    "TargetWordsMin": 20,
+    "Name": "Svenska - En kort berättelse med korrekt meningsbyggnad V",
+    "Description": "Skriv en del av en novell om en hemlös person i göteborg, hitta på hans livshistoria. Tydlig text med punkt, stor bokstav och sammanhang.",
+    "TargetWordsMin": 30,
     "TargetWordsMax": 60,
     "Difficulty": 1,
     "CheckGrammarOnly": true,
