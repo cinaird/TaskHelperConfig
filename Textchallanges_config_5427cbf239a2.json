@@ -20,7 +20,7 @@
     "Difficulty": 1,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
-    "Visible": true,
+    "Visible": false,
     "DisplayPriority": 203
   },
   {
@@ -37,27 +37,27 @@
   },
   {
     "Id": "9589fd96-7041-4e97-8608-de9365ea246e",
-    "Name": "Enkel faktatext utan talspr\u00E5k",
-    "Description": "Skriv en enkel och tydlig faktatext med punkt, stor bokstav och sammanhang. Anv\u00E4nd g\u00E4rna inte talspr\u00E5k.",
+    "Name": "Ej talspråk - Enkel faktatext utan talspråk",
+    "Description": "Skriv en enkel och tydlig faktatext med punkt, stor bokstav och sammanhang. Använd gärna inte talspråk.",
     "TargetWordsMin": 10,
     "TargetWordsMax": 50,
     "Difficulty": 0,
     "CheckGrammarOnly": false,
     "CheckGrammarAndSpoken": true,
     "Visible": true,
-    "DisplayPriority": 213
+    "DisplayPriority": 6213
   },
   {
     "Id": "c50bfb7a-e721-4c90-bbfa-a3e76d3dd5fe",
-    "Name": "Begriplig faktatext utan talspr\u00E5k",
-    "Description": "Skriv en begriplig och tydlig faktatext med punkt, stor bokstav och sammanhang. Anv\u00E4nd inget talspr\u00E5k.",
+    "Name": "Ej talspråk - Begriplig faktatext utan talspråk",
+    "Description": "Skriv en begriplig och tydlig faktatext med punkt, stor bokstav och sammanhang. Använd inget talspråk.",
     "TargetWordsMin": 25,
     "TargetWordsMax": 100,
     "Difficulty": 1,
     "CheckGrammarOnly": false,
     "CheckGrammarAndSpoken": true,
     "Visible": true,
-    "DisplayPriority": 215
+    "DisplayPriority": 6215
   },
   {
     "Id": "1a83dc2f-95d6-40b6-94c7-4807b0c8a400",
