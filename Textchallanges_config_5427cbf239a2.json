@@ -35,6 +35,30 @@
     "Visible": false,
     "DisplayPriority": 0
   },
+{
+    "Id": "c50bfb7a-e721-4c90-bbfa-a3e76d3dd5fe",
+    "Name": "SO - Ej talspråk - Begriplig faktatext utan talspråk",
+    "Description": "Skriv en begriplig och tydlig faktatext med punkt, stor bokstav och sammanhang. Använd inget talspråk. Vad är Stadsskick och vad är styrelseskick?",
+    "TargetWordsMin": 25,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": false,
+    "CheckGrammarAndSpoken": true,
+    "Visible": true,
+    "DisplayPriority": 6211
+  },
+  {
+    "Id": "c50bfb7a-e721-4c90-bbfa-a3e76d3dd5fe",
+    "Name": "SO - Ej talspråk - Begriplig faktatext utan talspråk",
+    "Description": "Skriv en begriplig och tydlig faktatext med punkt, stor bokstav och sammanhang. Använd inget talspråk. Vad är en lag och beskriv en grundlag?",
+    "TargetWordsMin": 25,
+    "TargetWordsMax": 100,
+    "Difficulty": 1,
+    "CheckGrammarOnly": false,
+    "CheckGrammarAndSpoken": true,
+    "Visible": true,
+    "DisplayPriority": 6212
+  },
   {
     "Id": "9589fd96-7041-4e97-8608-de9365ea246e",
     "Name": "Ej talspråk - Enkel faktatext utan talspråk",
@@ -47,6 +71,7 @@
     "Visible": true,
     "DisplayPriority": 6213
   },
+
   {
     "Id": "c50bfb7a-e721-4c90-bbfa-a3e76d3dd5fe",
     "Name": "Ej talspråk - Begriplig faktatext utan talspråk",
