@@ -1,26 +1,26 @@
 [
   {
     "Id": "904820cd-e0d0-4732-9c14-aba47cf368ac",
-    "Name": "Svenska - En kort berättelse med korrekt meningsbyggnad V",
-    "Description": "Skriv en del av en novell om en hemlös person i göteborg, hitta på hans livshistoria. Tydlig text med punkt, stor bokstav och sammanhang.",
+    "Name": "Matte - Vad är medelvärde V",
+    "Description": "Beskriv matematiskt korrekt vad medelvärdet är och räkna ut medelvärdet för en uppsättning siffror, svaret ska vara rätt beräknat och rätt uträknat. Tydlig text med punkt, stor bokstav och sammanhang.",
     "TargetWordsMin": 30,
     "TargetWordsMax": 60,
-    "Difficulty": 1,
+    "Difficulty": 2,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
-    "Visible": false,
+    "Visible": true,
     "DisplayPriority": 101
   },
   {
     "Id": "7df5e497-22c7-4fd2-96e9-3980cf16a33d",
-    "Name": "Svenska - Begriplig text med korrekt meningsbyggnad",
-    "Description": "Skriv en begriplig och tydlig text med punkt, stor bokstav och sammanhang.",
+    "Name": "Matte - Vad är medianen V",
+    "Description": "Beskriv matematiskt korrekt vad medianen är och räkna ut medianen för en uppsättning siffror, svaret ska vara rätt beräknat och rätt uträknat. Tydlig text med punkt, stor bokstav och sammanhang.",
     "TargetWordsMin": 20,
     "TargetWordsMax": 100,
-    "Difficulty": 1,
+    "Difficulty": 2,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
-    "Visible": false,
+    "Visible": true,
     "DisplayPriority": 203
   },
   {
