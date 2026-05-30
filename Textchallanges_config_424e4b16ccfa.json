@@ -5,7 +5,7 @@
     "Description": "Beskriv matematiskt korrekt vad medelvärdet är och räkna ut medelvärdet för en uppsättning siffror, svaret ska vara rätt beräknat och rätt uträknat. Tydlig text med punkt, stor bokstav och sammanhang.",
     "TargetWordsMin": 30,
     "TargetWordsMax": 60,
-    "Difficulty": 2,
+    "Difficulty": 1,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
     "Visible": true,
@@ -17,11 +17,11 @@
     "Description": "Beskriv matematiskt korrekt vad medianen är och räkna ut medianen för en uppsättning siffror, svaret ska vara rätt beräknat och rätt uträknat. Tydlig text med punkt, stor bokstav och sammanhang.",
     "TargetWordsMin": 20,
     "TargetWordsMax": 100,
-    "Difficulty": 2,
+    "Difficulty": 1,
     "CheckGrammarOnly": true,
     "CheckGrammarAndSpoken": false,
     "Visible": true,
-    "DisplayPriority": 203
+    "DisplayPriority": 103
   },
   {
     "Id": "2630c1b9-acd9-4783-a997-38bf6c9c1db6",
